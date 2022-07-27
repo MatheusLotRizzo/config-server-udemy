@@ -1,0 +1,3 @@
+greeting-service:
+  greeting: "Cia"
+  default-value: "Mondo"
